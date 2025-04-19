@@ -21,7 +21,7 @@ I love developing scalable and efficient web solutions and leveraging modern tec
 📫 **LinkedIn:** [maximilian-gorn](https://www.linkedin.com/in/maximilian-gorn-657116361/)  
 
 ## 🌍 In Progress:
-I'm currently working on a new version of my portfolio website that will be even more user-friendly and interactive.
+I'm currently working on a new version of my portfolio website that will be even more user-friendly and interactive. - [Portfolio](https://portfoliogornwebdesign.netlify.app/) - my porfolio
 
 ---
 
