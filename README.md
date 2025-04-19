@@ -39,7 +39,6 @@ Tailwind      6.50 hrs ████████████                   21
 Node.js       5.00 hrs █████████                      16.67%
 MongoDB       2.50 hrs █████                          8.33%
 Bash          1.50 hrs ███                            5.00%
-
 ```
 
 
