@@ -33,8 +33,8 @@ Ich arbeite aktuell an einer neuen Version meiner Portfolio-Website, die noch be
 ---
 
 ## 💡 Fun Facts:
-- Ich liebe es, sauberen und wartbaren Code zu schreiben.
-- In meiner Freizeit beschäftige ich mich mit neuen Technologien und probiere neue Frameworks und Tools aus, die den Entwicklungsprozess optimieren.
+- Pandas haben 2 Daumen
+  
 
 ---
 
