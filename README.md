@@ -1,17 +1,17 @@
 # Hallo, ich bin Max 👋
-**Full-Stack Developer** mit einer Leidenschaft für [JavaScript](https://www.javascript.com/), [TypeScript](https://www.typescriptlang.org/), [React](https://reactjs.org/) und [Cloud-Technologien](https://aws.amazon.com/).  
-Ich liebe es, innovative Lösungen zu entwickeln und mit modernen Tools wie [Docker](https://www.docker.com/) und [Kubernetes](https://kubernetes.io/) zu arbeiten. Wenn du Interesse an effizienten und skalierbaren Weblösungen hast, dann bist du hier genau richtig!
+**Full-Stack Webentwickler** mit einer Leidenschaft für [JavaScript](https://www.javascript.com/), [TypeScript](https://www.typescriptlang.org/), [React](https://reactjs.org/) und [Cloud-Technologien](https://aws.amazon.com/).  
+Ich liebe es, skalierbare und effiziente Weblösungen zu entwickeln und moderne Technologien wie [Docker](https://www.docker.com/) und [Kubernetes](https://kubernetes.io/) zu nutzen. Wenn du nach einem Entwickler suchst, der solide, benutzerfreundliche und performante Webanwendungen erstellt, bist du hier genau richtig!
 
 ## 🚀 Aktuelle Projekte:
-- [AI Project](https://github.com/yourusername/ai-project) - Ein Projekt zur Erstellung von KI-Tools für Unternehmen.
-- [Portfolio](https://github.com/yourusername/portfolio) - Eine persönliche Webseite zur Präsentation meiner Arbeiten.
-- [WebApp](https://github.com/yourusername/webapp) - Eine Single Page Application für die Verwaltung von Projekten.
+- [Portfolio Website](https://github.com/yourusername/portfolio) - Eine moderne und benutzerfreundliche Webseite zur Präsentation meiner Arbeiten.
+- [WebApp](https://github.com/yourusername/webapp) - Eine Single Page Application zur Verwaltung von Projekten und Aufgaben.
+- [Blog System](https://github.com/yourusername/blog-system) - Ein vollständiges Blogsystem, das sowohl Frontend als auch Backend umfasst.
 
 ## 🛠️ Technologien & Tools:
 - **Frontend**: JavaScript, TypeScript, React, TailwindCSS, Next.js
-- **Backend**: Node.js, Express, GraphQL, MongoDB, PostgreSQL
+- **Backend**: Node.js, Express, MongoDB, PostgreSQL
 - **DevOps**: Docker, Kubernetes, GitHub Actions, AWS, Heroku
-- **AI**: TensorFlow, OpenCV, Python
+- **Tools**: Git, GitHub, Nginx, Jest, Cypress
 
 ## 📈 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
@@ -25,17 +25,17 @@ Ich liebe es, innovative Lösungen zu entwickeln und mit modernen Tools wie [Doc
 - E-Mail: [max@example.com](mailto:max@example.com)
 
 ## 💻 Mein Stack:
-- **Frontend**: React, TypeScript, TailwindCSS
+- **Frontend**: React, TypeScript, TailwindCSS, Next.js
 - **Backend**: Node.js, Express, MongoDB, PostgreSQL
 - **Cloud & DevOps**: Docker, AWS, CI/CD, Kubernetes
-- **Machine Learning**: TensorFlow, Python, OpenCV
+- **Testing**: Jest, Cypress
 
 ## 🌍 In Arbeit:
-Ich arbeite momentan an mehreren spannenden Projekten, wie einer neuen Version meiner Portfolio-Website und einem KI-Tool zur automatisierten Datenanalyse.
+Ich arbeite aktuell an einer neuen Version meiner Portfolio-Website, die noch benutzerfreundlicher und interaktiver wird. Außerdem entwickle ich eine RESTful API für eine Webanwendung zur Verwaltung von Nutzerdaten.
 
 ## 👨‍💻 Aktivitäten:
-- 📚 **Lehre**: Ich gebe regelmäßig Tutorials über moderne Web-Technologien und Code-Optimierung.
-- 🛠️ **Open Source**: Ich trage aktiv zu Open-Source-Projekten bei und freue mich immer über neue Kollaborationen!
+- 📚 **Lehre**: Ich gebe regelmäßig Tutorials über moderne Web-Technologien und best practices für Full-Stack Webentwicklung.
+- 🛠️ **Open Source**: Ich trage aktiv zu Open-Source-Projekten bei, insbesondere im Bereich Webentwicklung.
 
 ## 📊 Meine neuesten Repositories:
 - [Repo 1](https://github.com/yourusername/repo1): Beschreibung des ersten Repos.
@@ -44,8 +44,8 @@ Ich arbeite momentan an mehreren spannenden Projekten, wie einer neuen Version m
 ---
 
 ## 💡 Fun Facts:
-- Ich liebe es, Code zu schreiben, der sowohl effizient als auch schön ist.
-- Wenn ich nicht gerade programmiere, probiere ich neue Technologien aus oder beschäftige mich mit Machine Learning.
+- Ich liebe es, sauberen und wartbaren Code zu schreiben.
+- In meiner Freizeit beschäftige ich mich mit neuen Technologien und probiere neue Frameworks und Tools aus, die den Entwicklungsprozess optimieren.
 
 ---
 
@@ -64,7 +64,6 @@ Ich arbeite momentan an mehreren spannenden Projekten, wie einer neuen Version m
 ---
 
 ## 📍 Funktionsweise meines GitHub-Profils:
-Ich fokussiere mich auf Projekte, die nicht nur technisch herausfordernd sind, sondern auch einen echten Mehrwert schaffen. Wenn du ein Projekt im Kopf hast oder einfach nach einem coolen Developer suchst, der innovative Lösungen bietet, dann lass uns reden!
+Ich konzentriere mich auf die Entwicklung von skalierbaren und benutzerfreundlichen Webanwendungen. Wenn du ein Projekt im Kopf hast oder einfach einen Entwickler suchst, der zuverlässige Lösungen bietet, dann lass uns gerne zusammenarbeiten!
 
 ---
-
