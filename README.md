@@ -39,7 +39,7 @@ I love developing scalable and efficient web solutions and leveraging modern tec
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=monokai)
 
 ## 📫 How to Reach Me:
-📫 **LinkedIn:** [maximilian-gorn](https://www.linkedin.com/in/maximilian-gorn-657116361/)  
+📫 **LinkedIn:** Connect with me for exciting projects, collaborations, and more! [maximilian-gorn](https://www.linkedin.com/in/maximilian-gorn-657116361/)  
 
 ## 🌍 In Progress:
 I'm currently working on a new version of my portfolio website that will be even more user-friendly and interactive. - [Portfolio](https://portfoliogornwebdesign.netlify.app/) - my porfolio
