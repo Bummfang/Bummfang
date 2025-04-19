@@ -27,7 +27,7 @@ I'm currently working on a new version of my portfolio website that will be even
 
 ## 💡 Fun Facts:
 - Pandas have 2 thumbs
-## [Sound4Coding](https://www.youtube.com/playlist?list=PL6u2uNcKROwpodOr9RArq9E5CRYYFOH1a)
+## 🎵 [Sound4Coding](https://www.youtube.com/playlist?list=PL6u2uNcKROwpodOr9RArq9E5CRYYFOH1a) 🎧
 ---
 
 ## 📊 Weekly Development Breakdown  
