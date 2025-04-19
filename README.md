@@ -41,15 +41,8 @@ MongoDB       2.50 hrs █████                          8.33%
 Bash          1.50 hrs ███                            5.00%
 
 ```
-<p align="center">
-  <a href="https://www.linkedin.com/in/maximilian-gorn-657116361/>
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
 
----
 
-## 📍 Funktionsweise meines GitHub-Profils:
-Ich konzentriere mich auf die Entwicklung von skalierbaren und benutzerfreundlichen Webanwendungen. Wenn du ein Projekt im Kopf hast oder einfach einen Entwickler suchst, der zuverlässige Lösungen bietet, dann lass uns gerne zusammenarbeiten!
 
----
+
+
