@@ -10,6 +10,13 @@ I love developing scalable and efficient web solutions and leveraging modern tec
 - **Backend**: Node.js, Express, MongoDB, PostgreSQL
 - **Cloud & DevOps**: Docker, AWS, CI/CD, Kubernetes
 - **Testing**: Jest, Cypress
+- ### ⚙️ My Tech Stack
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
 
 ## 📈 GitHub Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=bummfang&show_icons=true&theme=radical)
