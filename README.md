@@ -3,7 +3,7 @@
 I love developing scalable and efficient web solutions and leveraging modern technologies like [Docker](https://www.docker.com/) and [Kubernetes](https://kubernetes.io/). If you're looking for a developer who creates solid, user-friendly, and performant web applications, you're in the right place!
 
 ## 🚀 Current Projects:
-- [Portfolio Website](https://lausitzereisstrahlen.netlify.app/) - A modern, user-friendly website to showcase my work.
+- [Portfolio Website](https://lausitzereisstrahlen.netlify.app/) - A modern, user-friendly website for Lausitzer Eisstrahlen start up company.
 
 ## 💻 My Stack:
 - **Frontend**: React, TypeScript, TailwindCSS, Next.js
