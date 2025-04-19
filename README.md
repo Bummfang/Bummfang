@@ -38,7 +38,15 @@ Ich arbeite aktuell an einer neuen Version meiner Portfolio-Website, die noch be
 
 ---
 ## 📊 Weekly Development Breakdown
-**From:** 11 April 2025 &nbsp; **To:** 18 April 2025
+**Zeitraum:** 11. April – 18. April 2025
+
+```text
+TypeScript   14.50 hrs ██████████████████████████████ 48.33%
+Tailwind      6.50 hrs ████████████                   21.67%
+Node.js       5.00 hrs █████████                      16.67%
+MongoDB       2.50 hrs █████                          8.33%
+Bash          1.50 hrs ███                            5.00%
+```
 <p align="center">
   <a href="https://www.linkedin.com/in/maximilian-gorn-657116361/>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
