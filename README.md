@@ -37,7 +37,8 @@ Ich arbeite aktuell an einer neuen Version meiner Portfolio-Website, die noch be
   
 
 ---
-
+## 📊 Weekly Development Breakdown
+**From:** 11 April 2025 &nbsp; **To:** 18 April 2025
 <p align="center">
   <a href="https://www.linkedin.com/in/maximilian-gorn-657116361/>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
