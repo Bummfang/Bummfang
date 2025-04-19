@@ -11,8 +11,9 @@ I love developing scalable and efficient web solutions and leveraging modern tec
 - **Cloud & DevOps**: Docker, AWS, CI/CD, Kubernetes
 - **Testing**: Jest, Cypress
 
-## 📈 GitHub Stats:
-![GitHub Stats](https://lausitzereisstrahlen.netlify.app/))
+## 📈 GitHub Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=bummfang&show_icons=true&theme=radical)
+
 
 ## 🔥 GitHub Streak:
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=monokai)
