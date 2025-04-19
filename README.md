@@ -12,7 +12,7 @@ I love developing scalable and efficient web solutions and leveraging modern tec
 - **Testing**: Jest, Cypress
 
 ## 📈 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats]([https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical](https://lausitzereisstrahlen.netlify.app/))
 
 ## 🔥 GitHub Streak:
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=monokai)
