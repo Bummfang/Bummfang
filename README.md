@@ -18,7 +18,7 @@ Ich liebe es, skalierbare und effiziente Weblösungen zu entwickeln und moderne 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=monokai)
 
 ## 📫 Wie du mich erreichst:
-- LinkedIn:(https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/maximilian-gorn-657116361/)
+📫 **LinkedIn:** [maximilian-gorn](https://www.linkedin.com/in/maximilian-gorn-657116361/)  
 
 ## 💻 Mein Stack:
 - **Frontend**: React, TypeScript, TailwindCSS, Next.js
