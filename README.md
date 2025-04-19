@@ -4,6 +4,8 @@ I love developing scalable and efficient web solutions and leveraging modern tec
 
 ## 🚀 Current Projects:
 - [Lausitzer Eisstrahlen](https://lausitzereisstrahlen.netlify.app/) - A modern, user-friendly website for Lausitzer Eisstrahlen start up company.
+- ## 🌍 In Progress:
+I'm currently working on a new version of my portfolio website that will be even more user-friendly and interactive. - [Portfolio](https://portfoliogornwebdesign.netlify.app/) - my porfolio
 
 ### ⚙️ My Tech Stack
 
@@ -40,9 +42,6 @@ I love developing scalable and efficient web solutions and leveraging modern tec
 
 ## 📫 How to Reach Me:
 📫 **LinkedIn:** Connect with me for exciting projects, collaborations, and more! [maximilian-gorn](https://www.linkedin.com/in/maximilian-gorn-657116361/)  
-
-## 🌍 In Progress:
-I'm currently working on a new version of my portfolio website that will be even more user-friendly and interactive. - [Portfolio](https://portfoliogornwebdesign.netlify.app/) - my porfolio
 
 ---
 
