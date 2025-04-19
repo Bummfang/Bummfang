@@ -18,7 +18,7 @@ Ich liebe es, skalierbare und effiziente Weblösungen zu entwickeln und moderne 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=monokai)
 
 ## 📫 Wie du mich erreichst:
-- LinkedIn: [Max's LinkedIn](https://linkedin.com/in/yourprofile)
+- LinkedIn:(https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/maximilian-gorn-657116361/)
 
 ## 💻 Mein Stack:
 - **Frontend**: React, TypeScript, TailwindCSS, Next.js
@@ -41,9 +41,6 @@ Ich arbeite aktuell an einer neuen Version meiner Portfolio-Website, die noch be
 <p align="center">
   <a href="https://www.linkedin.com/in/maximilian-gorn-657116361/>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:max@example.com">
-    <img src="https://img.shields.io/badge/Email-max%40example.com-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
