@@ -19,6 +19,7 @@ I love developing scalable and efficient web solutions and leveraging modern tec
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git.io](https://img.shields.io/badge/-Git.io-333?style=for-the-badge&logo=git&logoColor=white)
 
 #### ☁️ Cloud & DevOps
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
