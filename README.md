@@ -5,6 +5,7 @@ I love developing scalable and efficient web solutions and leveraging modern tec
 ## 🚀 Current Projects:
 - [Lausitzer Eisstrahlen](https://lausitzereisstrahlen.netlify.app/) - A modern, user-friendly website for Lausitzer Eisstrahlen start up company.
 - [Portfolio](https://gornportfolio.netlify.app/) - I'm currently working on a new version of my portfolio website.
+- [Stuff for toilet](https://pandaslot.netlify.app/) - When you're bored.
 
 ### ⚙️ My Tech Stack
 
