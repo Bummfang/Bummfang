@@ -39,7 +39,7 @@ I love developing scalable and efficient web solutions and leveraging modern tec
 
 
 ## 🔥 GitHub Streak:
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=monokai)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Bummfang&theme=monokai)
 
 ## 📫 How to Reach Me:
 📫 **LinkedIn:** Connect with me for exciting projects, collaborations, and more! [maximilian-gorn](https://www.linkedin.com/in/maximilian-gorn-657116361/)  
