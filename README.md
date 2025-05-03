@@ -35,7 +35,7 @@ I love developing scalable and efficient web solutions and leveraging modern tec
 
 
 ## 📈 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=bummfang&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bummfang&show_icons=true&theme=radical)
 
 
 ## 🔥 GitHub Streak:
